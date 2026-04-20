@@ -27,7 +27,7 @@ The project is highly useful for subject monitoring applications, interactive co
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/human-movement-3d-tracker.git
+git clone https://github.com/MorariuMark/human-movement-3d-tracker.git
 cd human-movement-3d-tracker
 
 2. Create and activate a virtual environment (recommended):
